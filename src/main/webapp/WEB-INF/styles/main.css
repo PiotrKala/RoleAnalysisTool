@@ -1,0 +1,45 @@
+.content {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.alert {
+    width: 40%;
+    margin-left: 5%;
+}
+
+#grahps-list {
+    width: 20%;
+    float: right;
+}
+
+#file-uploader {
+    width: 20%;
+    float: left;
+}
+
+#graph-content {
+    margin-top: 10%;
+    width: 50%;
+}
+
+.row-text {
+    padding-top: 10px;
+}
+
+.graph {
+    width: 960;
+    height: 500;
+    border-style: solid;
+    border-width: medium;
+}
+
+#roles-settings {
+    margin-top: 1%;
+    width: 10%;
+}
+
+.edges {
+    overflow:auto;
+    height: 200px;
+}

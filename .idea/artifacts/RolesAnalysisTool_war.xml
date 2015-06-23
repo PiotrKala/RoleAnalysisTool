@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="RolesAnalysisTool:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="RolesAnalysisTool.war">
+      <element id="artifact" artifact-name="RolesAnalysisTool:war exploded" />
+    </root>
+  </artifact>
+</component>
