@@ -18,3 +18,16 @@ After upload file to sever (gml and json formats are supported) there are follow
 4. Jung
 
 ## Quick view of working application
+
+
+### Uploading a file
+
+![Alt text](http://s8.postimg.org/yzek28ycl/Uploading_File.png)
+
+### Drawing simple roles graph
+
+![Alt text](http://s27.postimg.org/4khnux6o3/image.png)
+
+### Drawing table
+
+![Alt text](http://s17.postimg.org/7ma55t1y7/image.png)
